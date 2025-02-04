@@ -1,0 +1,40 @@
+/*body{
+    background-image: url('Media\server.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    margin: 0;
+}*/
+.logo{
+    font-size: 40px;
+    color:#fff;
+    text-decoration: none;
+}
+.div{
+    background-color: seagreen;
+    width: 100%;
+    padding: 20px;
+    margin-top: 0%;
+}
+.header{
+    margin-right: 5%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
+}
+.navbar{
+    top: 0;
+    left: 0;
+    width: 100%;
+
+}
+.navbar a {
+    font-size: 25px;
+    color: #fff;
+    font-weight: 500;
+    justify-content: end;
+    text-decoration: none;
+    margin-left: 40px;  
+}
